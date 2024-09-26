@@ -1,0 +1,14 @@
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\bin\Debug\net8.0\Controller mayhem.exe
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\bin\Debug\net8.0\Controller mayhem.deps.json
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\bin\Debug\net8.0\Controller mayhem.runtimeconfig.json
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\bin\Debug\net8.0\Controller mayhem.dll
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\bin\Debug\net8.0\Controller mayhem.pdb
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.AssemblyInfoInputs.cache
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.AssemblyInfo.cs
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.csproj.CoreCompileInputs.cache
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.dll
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\refint\Controller mayhem.dll
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.pdb
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\Controller mayhem.genruntimeconfig.cache
+C:\Users\valdi\OneDrive\Documenten\Controller mayhem\obj\Debug\net8.0\ref\Controller mayhem.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Controller mayhem/1.0.0": {
+        "runtime": {
+          "Controller mayhem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controller mayhem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

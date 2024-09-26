@@ -1,0 +1,13 @@
+# .editorconfig file to disable all code suggestions
+
+# Top-most EditorConfig file
+root = true
+
+# C# files
+[*.cs]
+# Disable all diagnostic warnings
+dotnet_diagnostic.severity = none
+
+# Optional: Customize further if needed
+indent_style = space
+indent_size = 4
